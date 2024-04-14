@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1658765478 source:d:\animie\payment\card\card.c
+	"Card.h"
+
+1658787860 source:d:\animie\payment\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Card/Card.h"
+	"Terminal/Terminal.h"
+	"server/Server.h"
+
+1658765920 d:\animie\payment\card\card.h
+
+1658787747 d:\animie\payment\terminal\terminal.h
+
+1658785965 d:\animie\payment\server\server.h
+
+1658787860 source:d:\animie\payment\server\server.c
+	"string.h"
+	"../Terminal/Terminal.h"
+	"server.h"
+
+1658787249 source:d:\animie\payment\terminal\terminal.c
+	<string.h>
+	"../Card/Card.h"
+	"Terminal.h"
+

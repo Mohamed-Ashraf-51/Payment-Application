@@ -1,0 +1,14 @@
+﻿  Terminal.c
+E:\0.Embeded_udacity\C\Payment Project\Terminal\Terminal.c(16,39): error C2224: left of '.name' must have struct/union type
+E:\0.Embeded_udacity\C\Payment Project\Terminal\Terminal.c(16,6): error C2198: 'strcpy': too few arguments for call
+E:\0.Embeded_udacity\C\Payment Project\Terminal\Terminal.c(17,38): error C2224: left of '.number' must have struct/union type
+E:\0.Embeded_udacity\C\Payment Project\Terminal\Terminal.c(17,3): error C2198: 'strcpy': too few arguments for call
+E:\0.Embeded_udacity\C\Payment Project\Terminal\Terminal.c(18,40): error C2224: left of '.exp_date' must have struct/union type
+E:\0.Embeded_udacity\C\Payment Project\Terminal\Terminal.c(18,3): error C2198: 'strcpy': too few arguments for call
+E:\0.Embeded_udacity\C\Payment Project\Terminal\Terminal.c(16,6): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\0.Embeded_udacity\C\Payment Project\Terminal\Terminal.c(17,3): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\0.Embeded_udacity\C\Payment Project\Terminal\Terminal.c(18,3): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\0.Embeded_udacity\C\Payment Project\Terminal\Terminal.c(23,2): warning C4013: 'printf' undefined; assuming extern returning int
+E:\0.Embeded_udacity\C\Payment Project\Terminal\Terminal.c(24,3): warning C4013: 'scanf' undefined; assuming extern returning int
+E:\0.Embeded_udacity\C\Payment Project\Terminal\Terminal.c(72,22): warning C4013: 'set_max_amount' undefined; assuming extern returning int
+E:\0.Embeded_udacity\C\Payment Project\Terminal\Terminal.c(72,20): warning C4018: '>': signed/unsigned mismatch
